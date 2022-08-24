@@ -1,0 +1,30 @@
+Delal Abdullatif Abzak ,Afyon Kocatepe Üniversitesi
+Fatma Özlem	Acar,Balıkesir Üniversitesi
+Özde Acarkan ,Afyon Kocatepe Üniversitesi
+Atahan Adanır ,Afyon Kocatepe Üniversitesi
+Hacı Mehmet	Adıgüzel,Akdeniz Üniversitesi
+Mükerrem Zeynep	Ağca,Boğaziçi Üniversitesi
+Bestami	Ağırağaç ,Afyon Kocatepe Üniversitesi
+Aykanat	Ağıroğlu,Balıkesir Üniversitesi
+Şennur	Ağnar ,Afyon Kocatepe Üniversitesi
+Tutkum	Ahmadı As ,Afyon Kocatepe Üniversitesi
+Mügenur	Ahmet,Boğaziçi Üniversitesi
+Sevinç	Ak,Akdeniz Üniversitesi
+Kayıhan Nedim Akarcalı ,Afyon Kocatepe Üniversitesi
+Lemi Akarçay,Boğaziçi Üniversitesi
+Cihan Akarpınar,Akdeniz Üniversitesi
+Rafi Akaş ,Afyon Kocatepe Üniversitesi
+Mehmetcan Akay ,Afyon Kocatepe Üniversitesi
+Nuhaydar Akbilmez,Balıkesir Üniversitesi
+Emine Münevver Akca,Akdeniz Üniversitesi
+Servet Akçagunay,Balıkesir Üniversitesi
+Çilem Akçay ,Afyon Kocatepe Üniversitesi
+Recep Ali Samet	Akdoğan,Boğaziçi Üniversitesi
+Emre Ayberk	Akfırat,Akdeniz Üniversitesi
+Kerime Hacer Akıllı ,Afyon Kocatepe Üniversitesi
+Ercüment Akıncılar,Boğaziçi Üniversitesi
+Sarper Akış ,Afyon Kocatepe Üniversitesi
+Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
+Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
+Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
+Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
