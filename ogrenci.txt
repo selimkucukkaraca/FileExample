@@ -24,7 +24,4 @@ Emre Ayberk	Akfırat,Akdeniz Üniversitesi
 Kerime Hacer Akıllı ,Afyon Kocatepe Üniversitesi
 Ercüment Akıncılar,Boğaziçi Üniversitesi
 Sarper Akış ,Afyon Kocatepe Üniversitesi
-Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
-Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
-Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
-Ogrenci{fistName='baris', lastName='seckin', university='Afyon Kocatepe Üniversitesi', age=22}
+Furkan Yildiz ,Akdeniz Üniversitesi ,22

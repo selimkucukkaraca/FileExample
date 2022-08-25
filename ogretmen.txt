@@ -15,3 +15,4 @@ Bahar Özlem	Albaş,Boğaziçi Üniversitesi
 Kutlu Alibeyoğlu,Akdeniz Üniversitesi
 Nesibe Nurefşan	Alkan,Balıkesir Üniversitesi
 Ömer Buğra Alparslan ,Afyon Kocatepe Üniversitesi
+Ahmet Yilmaz ,Balıkesir Üniversitesi ,44

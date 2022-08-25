@@ -12,7 +12,9 @@ public class OgrenciService {
         return ogrenciRepository.save(ogrenci);
     }
 
+
     public List<String> getAll(){
         return ogrenciRepository.findAll();
     }
+
 }

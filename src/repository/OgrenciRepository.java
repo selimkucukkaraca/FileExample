@@ -4,7 +4,6 @@ import entity.Ogrenci;
 import utils.FileName;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -24,6 +23,7 @@ public class OgrenciRepository {
         }
     }
 
+
     public List<String > findAll(){
         List<String > ogrenciList = new ArrayList<>();
 
@@ -37,4 +37,5 @@ public class OgrenciRepository {
         }
         return ogrenciList;
     }
+
 }

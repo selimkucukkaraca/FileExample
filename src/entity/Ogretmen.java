@@ -1,12 +1,12 @@
 package entity;
 
-public class Ogrenci {
+public class Ogretmen {
     private String fistName;
     private String lastName;
     private String university;
     private int age;
 
-    public Ogrenci(String fistName, String lastName, String university, int age) {
+    public Ogretmen(String fistName, String lastName, String university, int age) {
         this.fistName = fistName;
         this.lastName = lastName;
         this.university = university;
